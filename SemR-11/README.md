@@ -19,17 +19,17 @@ This repo contains 4 multi-lingual gold standards over 11 languages to measure h
 
 |Language|MC|RG|WS-353|Simlex-999|
 |--------|-----|------|------|-------|
-|German|x|x|x|x|
-|French|x|x|x|x|
-|Russian|x|x|x| |
-|Italian|x|x|x|x|
-|Dutch|x|x|x|x| |
-|Chinese|x|x|x| |
-|Portuguese|x|x|x|x|
-|Swedish|x|x|x|x|
-|Spanish|x|x|x|x|
-|Arabic|x|x|x| |
-|Farsi(Persian)|x|x|x| |
+|German|✓|✓|✓|✓|
+|French|✓|✓|✓|✓|
+|Russian|✓|✓|✓| |
+|Italian|✓|✓|✓|✓|
+|Dutch|✓|✓|✓|✓| |
+|Chinese|✓|✓|✓| |
+|Portuguese|✓|✓|✓|✓|
+|Swedish|✓|✓|✓|✓|
+|Spanish|✓|✓|✓|✓|
+|Arabic|✓|✓|✓| |
+|Farsi(Persian)|✓|✓|✓| |
 
 
 ## Citing Indra
