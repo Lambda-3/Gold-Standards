@@ -33,7 +33,7 @@ This repo contains 4 multi-lingual gold standards over 11 languages to measure h
 
 
 ## Citing Indra
-Please cite Indra, if you use it in your experiments or project.
+Please cite our paper, if you use it in your experiments or project.
 
 ```
 @Inbook{Freitas2016,
