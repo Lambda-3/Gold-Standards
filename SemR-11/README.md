@@ -36,24 +36,13 @@ This repo contains 4 multi-lingual gold standards over 11 languages to measure h
 Please cite our paper, if you use it in your experiments or project.
 
 ```
-@Inbook{Freitas2016,
-author="Freitas, Andr{\'e}
-and Barzegar, Siamak
-and Sales, Juliano Efson
-and Handschuh, Siegfried
-and Davis, Brian",
-editor="Blomqvist, Eva
-and Ciancarini, Paolo
-and Poggi, Francesco
-and Vitali, Fabio",
-title="Semantic Relatedness for All (Languages): A Comparative Analysis of Multilingual Semantic Relatedness Using Machine Translation",
-bookTitle="Knowledge Engineering and Knowledge Management: 20th International Conference, EKAW 2016, Bologna, Italy, November 19-23, 2016, Proceedings",
-year="2016",
-publisher="Springer International Publishing",
-address="Cham",
-pages="212--222",
-isbn="978-3-319-49004-5",
-doi="10.1007/978-3-319-49004-5_14",
-url="http://dx.doi.org/10.1007/978-3-319-49004-5_14"
+@InProceedings{barzegar2018semr11,
+author="Barzegar, Siamak and Davis, Brian and Zarrouk, Manel and Handschuh, Siegfried and Freitas, Andr{\'e} and ",
+title="SemR-11: A Multi-Lingual Gold-Standard for Semantic Similarity and Relatedness for Eleven Languages",
+booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
+month     = {May},
+year      = {2018},
+address   = {Miyazaki, Japan},
+publisher = {European Language Resources Association (ELRA)},
 }
 ```
